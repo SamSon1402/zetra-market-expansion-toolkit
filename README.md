@@ -1,6 +1,11 @@
 # Zetra Market Expansion Toolkit
 
-![Zetra Company](https://via.placeholder.com/150x50?text=ZETRA)
+![image](https://github.com/user-attachments/assets/7bf642e8-dc28-4fc2-846c-e8223d0f375a)
+![image](https://github.com/user-attachments/assets/4a1982c0-63f1-43cc-9ae5-0d634b233554)
+![image](https://github.com/user-attachments/assets/74ae4cfd-2d72-465b-a97a-c1610e19d6cc)
+![image](https://github.com/user-attachments/assets/6731704f-9785-446a-939a-1466746f43c5)
+![image](https://github.com/user-attachments/assets/ebec7816-b17d-4ab5-8513-d13d4a2cba8b)
+
 
 ## What is this?
 
